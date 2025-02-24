@@ -4,7 +4,8 @@
 
 > **🎹 Support This Project!**  
 > If you enjoy experimenting with text-based melodies, consider buying me a coffee ☕. Your support helps me keep this project alive and maybe even buy a real piano someday!
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E81ASMA9)  
+> 
+> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E81ASMA9)  
 ---
 
 ## 🎵 What is Text2Music?  
