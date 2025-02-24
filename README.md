@@ -2,10 +2,11 @@
 
 # 🎶 Text2Music – Transform Your Text into Melodies!  
 
-> **🎹 Support This Project!**  
-> If you enjoy experimenting with text-based melodies, consider buying me a coffee ☕. Your support helps me keep this project alive and maybe even buy a real piano someday!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E81ASMA9)  
 
- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E81ASMA9)  
+> **🎹 Support This Project!**  
+> If you enjoy experimenting with text-based melodies, consider buying me a coffee ☕. Your support helps me keep this project alive and maybe even buy a real piano someday!  
+
 ---
 
 ## 🎵 What is Text2Music?  
@@ -103,7 +104,7 @@ If you have cool ideas to improve this project, feel free to contribute!
 
 ## 📜 License  
 
-This project is open-source under the **GNU**.  
+This project is open-source under the **MIT License**.  
 
 ---
 
