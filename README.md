@@ -1,4 +1,4 @@
-Aquí tienes tu README mejor estilizado y con un mensaje motivador antes del botón de donación. 🎵🚀  
+
 
 ---
 
