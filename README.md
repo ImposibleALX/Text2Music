@@ -2,7 +2,7 @@
 
 ---
 
-# 🎶 Text2Music – Transform Your Text into Melodies!  
+# 🎶 Text2Notes – Transform Your Text into Melodies!  
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E81ASMA9)  
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 🎵 What is Text2Music?  
+## 🎵 What is Text2Notes?  
 
 Text2Music is a **fun and experimental mini-project** that turns text into **unique melodies** using MIDI notes. Each character maps to a musical note, allowing you to **"hear"** your words in a completely new way.  
 
@@ -106,7 +106,7 @@ If you have cool ideas to improve this project, feel free to contribute!
 
 ## 📜 License  
 
-This project is open-source under the **MIT License**.  
+This project is open-source under the **GPL-2.0 license**.  
 
 ---
 
@@ -116,4 +116,4 @@ This project is open-source under the **MIT License**.
 🤖 **ChatGPT** – Idea brainstorming  
 🎧 **Web Audio API Docs** – For sound implementation  
 
-🎶 **Have fun with Text2Music!** 🚀
+🎶 **Have fun with Text2Notes!** 🚀
