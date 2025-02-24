@@ -11,7 +11,7 @@
 
 ---
 
-## 🎵 What is Text2Music?  
+## 🎵 What is Text2Notes?  
 
 Text2Music is a **fun and experimental mini-project** that turns text into **unique melodies** using MIDI notes. Each character maps to a musical note, allowing you to **"hear"** your words in a completely new way.  
 
@@ -116,4 +116,4 @@ This project is open-source under the **GPL-2.0 license**.
 🤖 **ChatGPT** – Idea brainstorming  
 🎧 **Web Audio API Docs** – For sound implementation  
 
-🎶 **Have fun with Text2Music!** 🚀
+🎶 **Have fun with Text2Notes!** 🚀
