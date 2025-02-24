@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Melody Generator</title>
+    <script type="module" src="js/script.js"></script>
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Text2Melody 💬 ➡️ 🎵</h1>
+        <textarea id="inputText" maxlength="200" placeholder="Type something here... 🎹"></textarea>
+        <div class="char-counter"><span id="charCount">0</span>/200 characters</div>
+
+        <div class="slider-container">
+            <label for="bpm">Speed (BPM): <span id="bpmValue">80</span></label>
+            <input type="range" id="bpm" class="slider" min="40" max="220" value="80">
+        </div>
+
+        <button id="playButton">Generate Melody</button>
+        <p class="error" id="errorMessage"></p>
+
+        <!-- Instructions Section -->
+        <div class="instructions">
+            <h2>🎙️ How to Record Your Melody</h2>
+            <textarea readonly>
+ 1️⃣ Install Chrome Audio Capture from the Chrome Web Store.
+ 2️⃣ Open this page.
+ 3️⃣ Click on the Chrome Audio Capture extension.
+ 4️⃣ Press "Start Capture" before generating your melody.
+ 5️⃣ Click "Generate Melody" and let it play.
+ 6️⃣ Once done, stop the capture and save your recording.
+ 7️⃣ Enjoy your recorded melody! 🎵
+            </textarea>
+        </div>
+    </div>
+
+    <!-- Ko-fi Floating Chat Widget -->
+    <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+    <script>
+        window.onload = function() {
+            kofiWidgetOverlay.draw('imposiblealx', {
+                'type': 'floating-chat',
+                'floating-chat.donateButton.text': 'For my piano',
+                'floating-chat.donateButton.background-color': '#ff9900',
+                'floating-chat.donateButton.text-color': '#fff',
+                'floating-chat.position': 'right',
+                'floating-chat.visible': true
+            });
+        };
+    </script>
+</body>
+</html>
