@@ -106,7 +106,7 @@ If you have cool ideas to improve this project, feel free to contribute!
 
 ## 📜 License  
 
-This project is open-source under the **MIT License**.  
+This project is open-source under the **GPL-2.0 license**.  
 
 ---
 
