@@ -2,7 +2,7 @@
 
 ---
 
-# 🎶 Text2Music – Transform Your Text into Melodies!  
+# 🎶 Text2Notes – Transform Your Text into Melodies!  
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E81ASMA9)  
 
