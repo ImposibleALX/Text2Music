@@ -1,5 +1,4 @@
 const notesMap = {
-  // Fila superior (Octava 5)
   'q': 72, // Do5
   'w': 74, // Re5
   'e': 76, // Mi5
@@ -10,8 +9,6 @@ const notesMap = {
   'i': 84, // Do6
   'o': 86, // Re6
   'p': 88, // Mi6
-
-  // Fila central (Octava 4)
   'a': 60, // Do4
   's': 62, // Re4
   'd': 64, // Mi4
@@ -21,8 +18,6 @@ const notesMap = {
   'j': 71, // Si4
   'k': 72, // Do5
   'l': 74, // Re5
-
-  // Fila inferior (Octava 3)
   'z': 48, // Do3
   'x': 50, // Re3
   'c': 52, // Mi3
