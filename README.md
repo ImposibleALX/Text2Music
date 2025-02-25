@@ -19,7 +19,7 @@ Text2Music is a **fun and experimental mini-project** that turns text into **uni
 
 ![Character to MIDI Note Mapping](assets/note_and_character.jpg)  
 
-[🔗 **Try It Here!**](https://imposiblealx.github.io/Text2Music/)  
+[🔗 **Try It Here!**](https://imposiblealx.github.io/Text2Notes/)  
 
 ---
 
