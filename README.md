@@ -27,8 +27,6 @@ Text2Music is a **fun and experimental mini-project** that turns text into **uni
 
 ✅ **Real-time text-to-melody conversion** 🎼  
 ✅ **Adjustable BPM (speed control)** ⏩  
-✅ **Character frequency-based note mapping** 📊  
-✅ **Supports special characters & numbers** 🔢  
 ✅ **Simple, responsive UI** 🎹  
 
 ---
